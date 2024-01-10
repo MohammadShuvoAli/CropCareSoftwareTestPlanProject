@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CropCare is a comprehensive platform designed to revolutionize sustainable farming in Bangladesh. Developed by a dedicated team from the American International University-Bangladesh, CropCare addresses critical challenges faced by farmers, providing them with essential tools and real-time insights for optimizing crop yields and farm management.
+CropCare is a comprehensive platform designed to revolutionize sustainable farming in Bangladesh. Developed by a dedicated team from the AIUB, CropCare addresses critical challenges faced by farmers, providing them with essential tools and real-time insights for optimizing crop yields and farm management.
 
 ## Objectives
 
