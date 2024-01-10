@@ -1,4 +1,4 @@
-# CropCare Software Project Plan
+# CropCare Test Plan
 
 ## Project Overview
 
