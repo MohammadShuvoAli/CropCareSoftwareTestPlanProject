@@ -1,4 +1,7 @@
 # CropCare Test Plan
+## PDF Report
+
+For the full detailed test plan, please refer to the [CropCare Test Plan Project](https://drive.google.com/file/d/1ZhacPfmDmMOrfT_k2W_efnIZ0wqFnlb7/view?usp=sharing).
 
 ## Project Overview
 
